@@ -4,11 +4,11 @@
 # Assignment: Change myname to your name and change the numofchildren to how many children you have.
 #
 
-myname = "Zach Lewis more"
+myname = "Mohona Lee"
 
 print("My Name is: " + myname);
 
-numofchildren = 1 + 1 + 1;
+numofchildren = 3;
 
 #print("I have " + numofchildren + " Children.");
 
